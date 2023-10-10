@@ -1,0 +1,2 @@
+Faker==17.6.0
+SQLAlchemy==1.4.39
